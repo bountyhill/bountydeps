@@ -10,4 +10,4 @@ gem "simple_cache_rs"
 gem "twitter"
 gem "oj"        # oj is the JSON parser recommended for the twitter gem
 
-# gem "rulesio"
+gem "stathat"
